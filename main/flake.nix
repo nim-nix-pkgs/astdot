@@ -11,7 +11,6 @@
   inputs.src-astdot-main.ref   = "refs/heads/main";
   inputs.src-astdot-main.owner = "Rekihyt";
   inputs.src-astdot-main.repo  = "astdot";
-  inputs.src-astdot-main.dir   = "";
   inputs.src-astdot-main.type  = "github";
   
   inputs."strings".owner = "nim-nix-pkgs";
